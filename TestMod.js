@@ -1,3 +1,3 @@
 function modTick(){
-	clientMessage("(´・ω・｀)");
+	clientMessage("( ^o^)＜ﾝﾝﾝﾝﾝﾝﾝﾝﾝﾝﾝﾝﾝﾝﾝwww");
 }
